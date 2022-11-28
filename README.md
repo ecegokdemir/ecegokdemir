@@ -1,10 +1,12 @@
 
 <img align="right" src="https://i.imgur.com/OOpRj.gif" width="280" height="230"/>
 
-### Hi there I'm Ece 👋
+## Hi there I'm Ece 👋
 - 👨‍💻 Computer Science & Engineering student at Akdeniz University.
 - 👀 I’m interested in software technologies and I try to improve myself.
 - 📫 How to reach me: **eceegokdemir@gmail.com**
+
+---
 
 <h3 align="left">Connect with me: </h3>
   <a href="www.linkedin.com/in/ecegokdemir" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="ecegokdemir" height="30" width="30" /></a>
