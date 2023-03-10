@@ -4,13 +4,13 @@
 ## Hi there I'm Ece 👋
 - 👨‍💻 Computer Science & Engineering student at Akdeniz University.
 - 👀 I’m interested in software technologies and I try to improve myself.
-- 📫 How to reach me: **eceegokdemir@gmail.com**
 
 ---
 
 <h3 align="left">Connect with me: </h3>
-  <a href="www.linkedin.com/in/ecegokdemir" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="ecegokdemir" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/eceegokdemir" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="eceegokdemir" height="30" width="30" /></a>
+  
+  - Email: **eceegokdemir@gmail.com**
+  - LinkedIn: **www.linkedin.com/in/ecegokdemir** 
 
 <h3 align="left">Technologies and Tools:</h3>
   <a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
